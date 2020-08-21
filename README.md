@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Andy1Blue/Andy1Blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, This is Krzysztof Bujak
 [![Github Badge](https://img.shields.io/badge/-andy1blue-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Andy1Blue/)](https://www.github.com/Andy1Blue/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Andy1Blue alt=Andy1Blue /> </p>
